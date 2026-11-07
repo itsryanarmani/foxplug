@@ -194,7 +194,7 @@ The runner uses Fetch, readable streams, and Web Crypto rather than Node-only `B
 ## Status
 
 Version 0.1.1 is an early release. Manifest and runner APIs can change during the 0.x series.
-Report problems through [GitHub issues](https://github.com/pooriaarab/foxplug/issues).
+Report problems through [GitHub issues](https://github.com/itsryanarmani/foxplug/issues).
 Public case studies are not yet published in this repository.
 
 ## FAQ
