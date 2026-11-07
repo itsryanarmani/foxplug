@@ -7,9 +7,9 @@
   "author": "Pooria Arab",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pooriaarab/foxplug.git"
+    "url": "git+https://github.com/itsryanarmani/foxplug.git"
   },
-  "homepage": "https://github.com/pooriaarab/foxplug#readme",
+  "homepage": "https://github.com/itsryanarmani/foxplug#readme",
   "packageManager": "pnpm@11.10.0",
   "engines": {
     "node": ">=24"
